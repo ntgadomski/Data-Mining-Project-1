@@ -1,6 +1,7 @@
 # Data-Mining-Project-1
 Knowledge Disc. & Data Mining
 Course number: CAP 4770
+
 This project was reading and manipulating a CSV file to implement further data mining algorithms.
 The CSV provided by the class was about rotten tomato reviews from customers.
 The program itself utilizes a pandas reader and dataframe while also splitting the words into a bag of words
